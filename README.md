@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Daniel Córdoba
 
-<!--
-**danielcordoba-dev/danielcordoba-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student at the University of the Balearic Islands (UIB)**
 
-Here are some ideas to get you started:
+I'm building my skills in **Python, data analysis, automation and software development**, with the goal of turning what I learn into practical and useful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 B.Sc. in Computer Science at UIB
+- 🐍 Currently focusing on Python
+- 📊 Interested in data and automation
+- 💻 Building practical software projects
+- 🚀 Working towards becoming a freelance developer
+
+## Currently learning
+
+- Python
+- Git & GitHub
+- Data analysis
+- SQL
+- Software development practices
+
+## Projects
+
+I'm currently building my first portfolio projects. They will be added here as they are completed.
+
+## Tech stack
+
+**Languages**
+
+`Python` · `Java` · `C`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code` · `uv`
+
+## Connect
+
+- [LinkedIn](www.linkedin.com/in/daniel-de-jesús-córdoba-gómez-a68757242)
